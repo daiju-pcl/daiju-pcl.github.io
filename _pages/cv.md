@@ -22,6 +22,7 @@ Work experience
 
 - **Postdoctoral Fellow**, Peng Cheng National Laboratory  
   *August 2020 – July 2022*
+  
 Skills
 ======
 * Skill 1
