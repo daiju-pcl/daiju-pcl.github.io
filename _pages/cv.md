@@ -42,3 +42,8 @@ Projects
 
 - **Participant**, *National Key R&D Program of China* (No. 2022ZD0115902)  
   *Research and Application Demonstration on Key Technologies of Smart Connected Computing in Learning Environments*
+
+Academic competition
+======
+- First Prize, Shoeprint Image Data Age Mining Challenge  
+  The Second China Conference on Pattern Recognition and Computer Vision (PRCV2019)
