@@ -17,10 +17,11 @@ Education
 
 Work experience
 ======
-* 2022.08 - Present Peng Cheng National Laboratory Assistant researcher.
+- **Assistant Researcher**, Peng Cheng National Laboratory  
+  *August 2022 – Present*
 
-* 2020.08 - 2022.07 Peng Cheng National Laboratory Postdoctoral fellow.
-  
+- **Postdoctoral Fellow**, Peng Cheng National Laboratory  
+  *August 2020 – July 2022*
 Skills
 ======
 * Skill 1
