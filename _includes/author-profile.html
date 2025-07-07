@@ -67,6 +67,9 @@
       {% if author.bitbucket %}
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket icon-pad-right" aria-hidden="true"></i>Bitbucket</a></li>
       {% endif %}
+      {% if site.author.dblp %}
+      <li><a href="{{ site.author.dblp }}" target="_blank">DBLP</a></li>
+      {% endif %}
       {% if author.codepen %}
         <li><a href="https://codepen.io/{{ author.codepen }}"><i class="fab fa-fw fa-codepen icon-pad-right" aria-hidden="true"></i>CodePen</a></li>
       {% endif %}      
