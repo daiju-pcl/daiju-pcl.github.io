@@ -40,7 +40,14 @@ Publications
 
 Projects
 ======
-- **Project Name 1** (Role: Lead / Participant)  
-  *Dates*  
-- **Project Name 2** (Role: Lead / Participant)  
-  *Dates*  
+- **PI**, *National Natural Science Foundation of China* (No. 62102208)  
+  *Monocular 3D Human Pose Estimation Driven by Complex Relations and its Application in Person Re-identification*
+
+- **PI**, *China Postdoctoral Science Foundation* (No. 2020M682827)  
+  *Research on Emotion Understanding and Affective Computing Based on Visual Perception and Its Application in Intelligent Nursing*
+
+- **Participant**, *National Natural Science Foundation of China* (No. 61771088)  
+  *Research on Method of Deep Learning in Salient Object Detection*
+
+- **Participant**, *National Key R&D Program of China* (No. 2022ZD0115902)  
+  *Research and Application Demonstration on Key Technologies of Smart Connected Computing in Learning Environments*
