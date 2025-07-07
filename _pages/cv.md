@@ -37,11 +37,10 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Projects
 ======
 - **Project Name 1** (Role: Lead / Participant)  
   *Dates*  
-
 - **Project Name 2** (Role: Lead / Participant)  
   *Dates*  
